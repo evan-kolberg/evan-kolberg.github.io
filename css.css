@@ -15,6 +15,7 @@ body {
     margin: 10px auto;
     border: 0.08em solid black;
     background-color: black;
+    border-color: transparent;
     color: white;
     justify-content:center;
     align-items:center;
