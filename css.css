@@ -8,15 +8,3 @@ body {
     background: linear-gradient(45deg, red, blue);
     color:white
 }
-
-.jumbotron {
-    width: 80%;
-    display: flex;
-    margin: 10px auto;
-    border: 0.08em solid black;
-    background-color: black;
-    border-color: transparent;
-    color: white;
-    justify-content:center;
-    align-items:center;
-}
