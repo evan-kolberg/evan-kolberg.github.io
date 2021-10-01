@@ -8,3 +8,11 @@ body {
     background: linear-gradient(45deg, red, blue);
     color:white
 }
+
+.btn-margin-left {
+    margin-left: 2px;
+}
+
+.btn-margin-right {
+    margin-right: 2px;
+}
