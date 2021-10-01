@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: troop-285.xyz
+Token: 8fc893b19294c2576d8588e6b2fb5057e16a2923868480240259ec91f36b6a69
