@@ -6,7 +6,7 @@ body {
 }
 
 .badge-special {
-    background: linear-gradient(45deg, #b55453, #9E3170, #6B1B7B, #1C0B52, #020D22, #061E36, #0C3446, #134B55, #2A7063);
+    background-color: black;
     color:white
 }
 
