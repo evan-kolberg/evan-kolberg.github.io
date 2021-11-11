@@ -3,6 +3,9 @@ body {
     background-image: url('liquid-cheese.svg');
     background-attachment: fixed;
     background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .btn-margins {
